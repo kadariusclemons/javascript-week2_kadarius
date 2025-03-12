@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    }
+    
+    header {
+    background-color: hwb(0 86% 7%);
+    padding: 10px;
+    text-align: center;
+    }
+    
+    nav ul {
+    list-style: none;
+    padding: 0;
+    }
+    
+    nav ul li {
+    display: inline;
+    margin: 0 15px;
+    }
+    
+    .banner {
+    width: 100%;
+    height: auto;
+    }
+    
+    .team-image {
+    max-width: 100%;
+    height: auto;
+    }
+    
+    main {
+    padding: 20px;
+    }
+    
+    #error {
+    color: red;
+    }
+    
+    footer {
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    }
